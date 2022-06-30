@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Program</name>
+    </assembly>
+    <members>
+        <member name="T:TenNumbers.Keeper">
+            <summary>
+            Класс хранящий в себе данные
+            </summary>
+        </member>
+        <member name="F:TenNumbers.Keeper.Array">
+            <summary>
+            Создание массива
+            </summary>
+        </member>
+        <member name="M:TenNumbers.Keeper.#ctor">
+            <summary>
+            Метод инициализирующий массив нулями
+            </summary>
+        </member>
+        <member name="M:TenNumbers.Keeper.RequestNUM">
+            <summary>
+            Метод запрашивающий десять чисел
+            </summary>
+        </member>
+        <member name="M:TenNumbers.Keeper.Print">
+            <summary>
+            Метод выводящий массив на экран
+            </summary>
+        </member>
+        <member name="M:TenNumbers.Keeper.Sort">
+            <summary>
+            Метод сортирующий массив по убыванию
+            </summary>
+        </member>
+    </members>
+</doc>
